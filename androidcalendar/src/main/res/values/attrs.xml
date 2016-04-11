@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="day">
+        <attr name="state_current" format="boolean" />
+    </declare-styleable>
+
+    <attr name="calendarViewStyle" format="reference" />
+    
+    <declare-styleable name="CalendarView">
+        <attr name="showToolBar" format="boolean"/>
+        <attr name="weekTitle" format="reference"/>
+    </declare-styleable>
+
+</resources>
